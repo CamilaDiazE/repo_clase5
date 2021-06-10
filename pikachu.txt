@@ -1,1 +1,3 @@
 tercero
+Agrego dos lineas de texto. Esta es la primera.
+Esta es la segunda.
