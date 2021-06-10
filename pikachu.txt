@@ -2,3 +2,5 @@ tercero
 Pokemon eléctrico
 Es el pokemon preferido de Ash Ketchup
 Es muy rebelde, no le gusta entrar en la pokebola
+Agrego dos lineas de texto. Esta es la primera.
+Esta es la segunda.
